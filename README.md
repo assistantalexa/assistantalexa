@@ -107,7 +107,9 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 
 <br/>
 
-<table style="width: 100%; border-style: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="10">
+<div align="center">
+
+<table style="margin: 0 auto; border-style: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td style="border: none; border-style: none;" width="50%" valign="top">
 
@@ -171,6 +173,8 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ---
@@ -213,7 +217,11 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 
 ### `> github --stats`
 
+<div align="center">
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=assistantalexa&theme=tokyonight" alt="GitHub Streak" /></a>
+
+</div>
 
 ---
 
