@@ -107,9 +107,9 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<table style="width: 100%; border-style: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td width="50%" valign="top">
+<td style="border: none; border-style: none;" width="50%" valign="top">
 
 **Core Languages**  
 ![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=3776AB)
@@ -119,7 +119,7 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=flat-square&logo=css3&logoColor=1572B6)
 
 </td>
-<td width="50%" valign="top">
+<td style="border: none; border-style: none;" width="50%" valign="top">
 
 **Backend & APIs**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d0d1a?style=flat-square&logo=fastapi&logoColor=009688)
@@ -131,7 +131,7 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td style="border: none; border-style: none;" width="50%" valign="top">
 
 **AI & Automation**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1a?style=flat-square&logo=openai&logoColor=412991)
@@ -140,7 +140,7 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 ![NumPy](https://img.shields.io/badge/NumPy-0d0d1a?style=flat-square&logo=numpy&logoColor=013243)
 
 </td>
-<td width="50%" valign="top">
+<td style="border: none; border-style: none;" width="50%" valign="top">
 
 **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-0d0d1a?style=flat-square&logo=amazon-aws&logoColor=FF9900)
@@ -152,14 +152,14 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td style="border: none; border-style: none;" width="50%" valign="top">
 
 **Frontend (Expanding)**  
 ![React](https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=flat-square&logo=node.js&logoColor=339933)
 
 </td>
-<td width="50%" valign="top">
+<td style="border: none; border-style: none;" width="50%" valign="top">
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=336791)
