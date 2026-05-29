@@ -163,54 +163,15 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-**`[ 01 ]` AI Assistant — Alexa**
+**`[ 01 ]` WSO2 Identity Provider Integration (WSO2_IDP)**
 
-> A conversational AI assistant built with Python, integrating voice recognition and intelligent response generation. Designed for real-world automation tasks.
+> A backend repository focusing on identity management, authentication, and secure access control integration using the WSO2 Identity Server (IDP).
 
-`Python` `SpeechRecognition` `AI` `Automation`
+`Python` `WSO2` `Identity Provider` `Backend` `Authentication` `APIs`
 
-[![Repo](https://img.shields.io/badge/View_Repository-0d0d1a?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/ipsitamohanty01)
-
-</td>
-
-<td width="50%" valign="top">
-
-**`[ 02 ]` Python Automation Toolkit**
-
-> A collection of automation scripts and tools built to eliminate repetitive tasks — from file management to API integrations and scheduled jobs.
-
-`Python` `Automation` `APIs` `Scripting`
-
-[![Repo](https://img.shields.io/badge/View_Repository-0d0d1a?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/ipsitamohanty01)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-**`[ 03 ]` Backend REST API System**
-
-> A scalable, well-structured REST API built with FastAPI/Flask following clean architecture principles. Includes authentication, routing, and database integration.
-
-`Python` `FastAPI` `REST API` `PostgreSQL`
-
-[![Repo](https://img.shields.io/badge/View_Repository-0d0d1a?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/ipsitamohanty01)
-
-</td>
-
-<td width="50%" valign="top">
-
-**`[ 04 ]` Data Pipeline & Analysis**
-
-> End-to-end data processing pipeline leveraging Python's data ecosystem — cleaning, transformation, and insightful analysis with automated reporting.
-
-`Python` `Pandas` `NumPy` `Data Engineering`
-
-[![Repo](https://img.shields.io/badge/View_Repository-0d0d1a?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/ipsitamohanty01)
+[![Repo](https://img.shields.io/badge/View_Repository-0d0d1a?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/assistantalexa/WSO2_IDP)
 
 </td>
 
@@ -229,25 +190,7 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 
 ### `> github --stats`
 
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipsitamohanty01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github&count_private=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipsitamohanty01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ipsitamohanty01&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=7c3aed&fire=c4b5fd&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=64748b" alt="GitHub Streak" />
-
-</div>
-
-<br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=assistantalexa&theme=tokyonight" alt="GitHub Streak" /></a>
 
 ---
 
@@ -257,13 +200,7 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 
 ### `> git log --activity`
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ipsitamohanty01&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true&area=true&area_color=7c3aed" alt="Contribution Graph" />
-
-</div>
+[![Ipsita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=assistantalexa&theme=react-dark)](https://github.com/assistantalexa/github-readme-activity-graph)
 
 <br/>
 
