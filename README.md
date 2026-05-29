@@ -107,46 +107,69 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 
 <br/>
 
-**Core Languages**
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td width="50%" valign="top">
 
+**Core Languages**  
 ![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=336791)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d1a?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=flat-square&logo=css3&logoColor=1572B6)
 
-**Backend & APIs**
+</td>
+<td width="50%" valign="top">
 
+**Backend & APIs**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d0d1a?style=flat-square&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-0d0d1a?style=flat-square&logo=flask&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-0d0d1a?style=flat-square&logo=django&logoColor=092E20)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0d0d1a?style=flat-square&logo=json&logoColor=A78BFA)
 
-**AI & Automation**
+</td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
+
+**AI & Automation**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1a?style=flat-square&logo=openai&logoColor=412991)
 ![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=flat-square&logo=chainlink&logoColor=375BD2)
 ![Pandas](https://img.shields.io/badge/Pandas-0d0d1a?style=flat-square&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d0d1a?style=flat-square&logo=numpy&logoColor=013243)
 
-**Cloud & Infrastructure**
+</td>
+<td width="50%" valign="top">
 
+**Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-0d0d1a?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d1a?style=flat-square&logo=github-actions&logoColor=2088FF)
 ![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=flat-square&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d0d1a?style=flat-square&logo=linux&logoColor=FCC624)
 
-**Frontend (Expanding)**
+</td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
+
+**Frontend (Expanding)**  
 ![React](https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=flat-square&logo=node.js&logoColor=339933)
 
-**Databases**
+</td>
+<td width="50%" valign="top">
 
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d1a?style=flat-square&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=flat-square&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/SQLite-0d0d1a?style=flat-square&logo=sqlite&logoColor=003B57)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
