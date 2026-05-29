@@ -42,9 +42,9 @@
 <!--                         ABOUT ME SECTION                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table style="width: 100%; border-style: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="58%" valign="top">
+<td style="border: none; border-style: none;" width="58%" valign="top">
 
 ### `> whoami`
 
@@ -65,8 +65,8 @@ I'm a developer who believes great software lives at the intersection of **elega
 Currently deepening my expertise in **backend systems**, **AI-powered tooling**, and **cloud infrastructure**, while staying sharp on the foundations that make software reliable at scale.
 
 </td>
-<td width="4%"></td>
-<td width="38%" valign="top">
+<td style="border: none; border-style: none;" width="4%"></td>
+<td style="border: none; border-style: none;" width="38%" valign="top">
 
 <br/><br/>
 
@@ -183,10 +183,10 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<table style="width: 100%; border-style: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="10">
 <tr>
 
-<td width="100%" valign="top">
+<td style="border: none; border-style: none;" width="100%" valign="top">
 
 **`[ 01 ]` WSO2 Identity Provider Integration (WSO2_IDP)**
 
@@ -237,9 +237,9 @@ Currently deepening my expertise in **backend systems**, **AI-powered tooling**,
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table style="width: 100%; border-style: none; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top">
+<td style="border: none; border-style: none;" width="60%" valign="top">
 
 I'm always open to meaningful conversations — whether it's a **collaboration opportunity**, a **project idea**, or just a **tech discussion**.
 
@@ -250,8 +250,8 @@ If you're a recruiter looking for a driven Python & AI developer who brings both
 &nbsp;&nbsp;→ [linkedin.com/in/ipsitamohanty01](https://www.linkedin.com/in/ipsitamohanty01/)
 
 </td>
-<td width="5%"></td>
-<td width="35%" valign="middle">
+<td style="border: none; border-style: none;" width="5%"></td>
+<td style="border: none; border-style: none;" width="35%" valign="middle">
 
 <div align="center">
 
