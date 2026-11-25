@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/ipsitam215%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d1a)](mailto:ipsitam215@gmail.com)
+[![Gmail](https://img.shields.io/badge/ipsitam215%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d1a)](mailto:ipsitamohanty724@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ipsitamohanty01-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d1a)](https://www.linkedin.com/in/ipsitamohanty01/)
 &nbsp;
@@ -254,7 +254,7 @@ I'm always open to meaningful conversations — whether it's a **collaboration o
 If you're a recruiter looking for a driven Python & AI developer who brings both depth and curiosity to the table — **let's connect**.
 
 📬 **Fastest way to reach me:**
-&nbsp;&nbsp;→ [ipsitam215@gmail.com](mailto:ipsitam215@gmail.com)
+&nbsp;&nbsp;→ [ipsitamohanty724@gmail.com](mailto:ipsitam215@gmail.com)
 &nbsp;&nbsp;→ [linkedin.com/in/ipsitamohanty01](https://www.linkedin.com/in/ipsitamohanty01/)
 
 </td>
