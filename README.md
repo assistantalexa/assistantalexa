@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/ipsitam215%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d1a)](mailto:ipsitamohanty724@gmail.com)
+[![Gmail](https://img.shields.io/badge/ipsitamohanty724%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d1a)](mailto:ipsitamohanty724@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ipsitamohanty01-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d1a)](https://www.linkedin.com/in/ipsitamohanty01/)
 &nbsp;
